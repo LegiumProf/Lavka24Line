@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "nameFront": "ПЕЛЬМЕНИ",
+    "nameBack": "С КРОЛИКОМ",
+    "shortDesc": "Натуральный состав и нежное мясо\nдля истиного вкуса домашней кухни",
+    "description": "Пельмени с кроликом — нежное мясо, тонкое тесто и мягкий вкус, который оценят любители лёгких и домашних блюд. Сытно, натурально и по-настоящему вкусно.",
+    "composition": "Мясо кролика, мука пшеничная высшего сорта, вода питьевая, лук репчатый, соль поваренная пищевая, перец черный молотый.",
+    "nutrition": {
+      "kcal": 99.2,
+      "proteins": 7.3,
+      "fats": 2.6,
+      "carbs": 10.2
+    },
+    "manufacturer": "ИП Шахматов И.Л: г. Санкт-Петербург, 24 линия В.О., дом 29",
+    "shelfLife": "90 суток при -18°C",
+    "mainImage": "https://res.cloudinary.com/dasip9jjs/image/upload/v1778402537/rabbit_dumplings_Main_dh2uas.png",
+    "thumbImage": "https://res.cloudinary.com/dasip9jjs/image/upload/v1778402323/rabbit_dumplings_d3blb9.png",
+    "themeColor": "#309033"
+  },
+  {
+    "id": 2,
+    "nameFront": "ПЕЛЬМЕНИ",
+    "nameBack": "ДОМАШНИЕ",
+    "shortDesc": "Классический рецепт для самых\nвкусных семейных вечеров",
+    "description": "Домашние пельмени — это классическое сочетание отборной свинины и говядины. Сочные, ароматные и невероятно вкусные.",
+    "composition": "Свинина, говядина, мука пшеничная высшего сорта, вода питьевая, лук репчатый, соль поваренная пищевая, перец черный молотый.",
+    "nutrition": {
+      "kcal": 250.0,
+      "proteins": 12.0,
+      "fats": 14.0,
+      "carbs": 24.0
+    },
+    "manufacturer": "ИП Шахматов И.Л: г. Санкт-Петербург, 24 линия В.О., дом 29",
+    "shelfLife": "90 суток при -18°C",
+    "mainImage": "https://res.cloudinary.com/dasip9jjs/image/upload/v1778402678/homemade_dumplings_main_tpzamp.png",
+    "thumbImage": "https://res.cloudinary.com/dasip9jjs/image/upload/v1778402324/homemade_dumplings_zmdfdr.png",
+    "themeColor": "#E73A38"
+  },
+  {
+    "id": 3,
+    "nameFront": "ПЕЛЬМЕНИ",
+    "nameBack": "С СЫРОМ",
+    "shortDesc": "Особый вкус с нежной сырной\nначинкой для гурманов",
+    "description": "Эти пельмени сочетают в себе нежное тесто и богатую сырную начинку. Идеально подходят для тех, кто ищет разнообразия.",
+    "composition": "Сыр сулугуни, сыр моцарелла, мука пшеничная высшего сорта, вода питьевая, соль поваренная пищевая.",
+    "nutrition": {
+      "kcal": 280.0,
+      "proteins": 14.0,
+      "fats": 16.0,
+      "carbs": 26.0
+    },
+    "manufacturer": "ИП Шахматов И.Л: г. Санкт-Петербург, 24 линия В.О., дом 29",
+    "shelfLife": "90 суток при -18°C",
+    "mainImage": "https://res.cloudinary.com/dasip9jjs/image/upload/v1778402678/dumplings_with_chicken_and_cheese_main_bvikve.png",
+    "thumbImage": "https://res.cloudinary.com/dasip9jjs/image/upload/v1778402324/dumplings_with_chicken_and_cheese_iqb4hl.png",
+    "themeColor": "#EBA02A"
+  }
+]
