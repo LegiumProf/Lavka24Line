@@ -35,7 +35,7 @@ export default function HomePage() {
           playsInline
           className="absolute inset-0 w-full h-full object-cover z-0"
         >
-          <source src="https://raw.githubusercontent.com/LegiumProf/Lavka24Line/0bdf68a8d0fae607a0abb9f6a31ee76042c3d433/0509.mp4" type="video/mp4" />
+          <source src="https://res.cloudinary.com/dasip9jjs/video/upload/v1778402136/0509_1_el3nt4.mp4" type="video/mp4" />
         </video>
 
         {/* Decorative Meat Image */}
@@ -94,7 +94,7 @@ export default function HomePage() {
               {/* Card 1 */}
               <div className="relative bg-[#FCECCF] rounded-3xl pl-[25px] pr-0 pb-6 pt-[16px] overflow-hidden flex flex-col min-h-[200px]">
                 <div className="flex-1 w-full min-h-0 flex justify-end items-start">
-                  <img src="https://raw.githubusercontent.com/LegiumProf/Lavka24Line/ade0e0d2a491c368a2725d8dabc1d7974431a6b5/section2_1.png" alt="" className="h-full w-auto object-contain pointer-events-none" />
+                  <img src="https://res.cloudinary.com/dasip9jjs/image/upload/v1778402061/section2_1_vbrr80.png" alt="" className="h-full w-auto object-contain pointer-events-none" />
                 </div>
                 <div className="relative z-10 mt-2">
                   <h3 className="text-[24px] font-semibold text-black m-0 mb-1 leading-tight">Для любого стола</h3>
@@ -105,7 +105,7 @@ export default function HomePage() {
               {/* Card 3 */}
               <div className="relative bg-[#FBD1D1] rounded-3xl pl-[18px] pr-[16px] pb-[16px] pt-[16px] overflow-hidden flex flex-col min-h-[220px]">
                 <div className="w-[100px] h-[90px] ml-auto min-h-0 flex justify-end items-start" style={{ width: '100px', height: '90px' }}>
-                  <img src="https://raw.githubusercontent.com/LegiumProf/Lavka24Line/ade0e0d2a491c368a2725d8dabc1d7974431a6b5/section2_3.png" alt="" className="h-full w-auto object-contain pointer-events-none" />
+                  <img src="https://res.cloudinary.com/dasip9jjs/image/upload/v1778402061/section2_3_fbsxeo.png" alt="" className="h-full w-auto object-contain pointer-events-none" />
                 </div>
                 <div className="relative z-10 mt-2">
                   <h3 className="text-[24px] font-semibold text-black m-0 mb-1 leading-tight">500+ клиентов</h3>
