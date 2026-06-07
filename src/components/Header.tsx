@@ -32,7 +32,7 @@ export default function Header() {
         
         {/* Logo */}
         <Link to="/" className="text-[24px] font-bold tracking-wide">
-          Lavka24Line
+          Лавка24Линия
         </Link>
 
         {/* Navigation & Actions */}
